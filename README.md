@@ -50,6 +50,14 @@ This project focuses on identifying and reducing bias in ML models to ensure fai
 | Accuracy           | 85%              | 83%              |
 | Fairness Score     | Low              | Improved         |
 
+## 📊 Fairness Evaluation Metrics
+
+- **Statistical Parity Difference** improved after mitigation  
+- **Selection Rate Gap** between groups reduced  
+- Bias reduced while maintaining acceptable accuracy  
+
+This demonstrates a practical trade-off between fairness and model performance.
+
 ## 📊 Visualization
 
 ### Bias Comparison Before vs After Mitigation
@@ -63,7 +71,11 @@ This visualization shows improved fairness after applying bias mitigation techni
 ## 📈 Key Insights
 - Initial model showed bias in predictions across groups  
 - Bias mitigation techniques improved fairness  
-- Slight trade-off observed between accuracy and fairness  
+- Slight trade-off observed between accuracy and fairness
+-  Model initially favored one demographic group over another  
+- Bias mitigation reduced disparity in selection rates  
+- Fairness improvements came with a slight reduction in accuracy  
+- Highlights real-world ethical trade-offs in ML systems   
 
 ---
 
