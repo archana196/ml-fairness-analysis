@@ -55,7 +55,7 @@ This project focuses on identifying and reducing bias in ML models to ensure fai
 ### Bias Comparison Before vs After Mitigation
 
 <img width="753" height="510" alt="bias comparison" src="https://github.com/user-attachments/assets/187650ca-33af-4ba6-ace1-d3f90e9c1a8c" />
-
+This visualization shows improved fairness after applying bias mitigation techniques.
 ---
 
 ## 📈 Key Insights
