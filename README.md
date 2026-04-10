@@ -1,4 +1,4 @@
-# ⚖️ Machine Learning Fairness Analysis
+# ⚖️ Bias Detection & Fairness Improvement in Machine Learning
 
 ## 📌 Problem Statement
 Machine learning models can produce biased predictions that unfairly affect certain groups.  
