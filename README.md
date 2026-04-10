@@ -50,6 +50,12 @@ This project focuses on identifying and reducing bias in ML models to ensure fai
 | Accuracy           | 85%              | 83%              |
 | Fairness Score     | Low              | Improved         |
 
+## 📊 Visualization
+
+### Bias Comparison Before vs After Mitigation
+
+<img width="753" height="510" alt="bias comparison" src="https://github.com/user-attachments/assets/187650ca-33af-4ba6-ace1-d3f90e9c1a8c" />
+
 ---
 
 ## 📈 Key Insights
